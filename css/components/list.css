@@ -1,0 +1,36 @@
+.list-inline {
+	list-style: none;
+	text-align: center;
+	margin: auto;
+	position: center;
+	
+}
+.list-inline li {
+	display: inline;
+	padding: 15px;
+}
+.list-inline a {
+	display: inline;
+	padding: 10px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Lora', sans-serif;
+	font-weight: 400;
+}
+.list-inline a:hover {
+    background-color: white;
+    color:steelblue;
+}
+#menu {
+    background: #030082;
+    padding:15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+#logo {
+	width:100px;
+	height: 35px;
+	border-radius: 3px;
+	position: center;
+	margin-bottom: -5px;
+}
